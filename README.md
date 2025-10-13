@@ -2,7 +2,7 @@
 
 Estudante de Desenvolvimento de Sistemas no SENAI.
 
-Sou apaixonado por tecnologia e estou em constante aprendizado. Me interesso por programação e também por manutenção de computadores.
+Tenho interesse nas áreas de tecnologia e estou em constante aprendizado. Me interesso por programação e também por manutenção de computadores.
 
 ---
 
