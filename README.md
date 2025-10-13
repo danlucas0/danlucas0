@@ -16,6 +16,7 @@ Tenho interesse nas áreas de tecnologia e estou em constante aprendizado. Me in
 ## 📞 Contato
 
 - 📱 (87) 99936-9077
+- 📧 danlucatec@gmail.com
 
 ---
 
