@@ -1,28 +1,13 @@
-# 👨‍💻 Daniel Lucas
+# Olá, eu sou Daniel Lucas! 👋
 
-Estudante de Desenvolvimento de Sistemas no SENAI.
+## 🎯 Sobre Mim
+Desenvolvedor | Estudante | Profissional em formação no SENAI
 
-Tenho interesse nas áreas de tecnologia e estou em constante aprendizado. Me interesso por programação e também por manutenção de computadores.
+Sou estudante de Desenvolvimento de Sistemas no SENAI. Tenho interesse nas áreas de programação e manutenção de computadores, sempre buscando evoluir minhas habilidades técnicas e profissionais.
 
----
-
-## 🚀 Habilidades
-
-- 💻 Programação
-- 🛠️ Manutenção de Computadores
-
----
+## 💼 Habilidades
+- 💻 Programação  
+- 🛠️ Manutenção de Computadores  
 
 ## 📞 Contato
-
-- 📱 (87) 99936-9077
-- 📧 danlucatec@gmail.com
-
----
-
-## 📌 Sobre Mim
-
-Atualmente cursando **Desenvolvimento de Sistemas** no **SENAI**. Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de tecnologia.
-
----
-
+- 📧 Email: danlucatec@gmail.com
