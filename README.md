@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👨‍💻 Daniel Lucas
 
-<!--
-**danlucas0/danlucas0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Desenvolvimento de Sistemas no SENAI.
 
-Here are some ideas to get you started:
+Sou apaixonado por tecnologia e estou em constante aprendizado. Me interesso por programação e também por manutenção de computadores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Habilidades
+
+- 💻 Programação
+- 🛠️ Manutenção de Computadores
+
+---
+
+## 📞 Contato
+
+- 📱 (87) 99936-9077
+
+---
+
+## 📌 Sobre Mim
+
+Atualmente cursando **Desenvolvimento de Sistemas** no **SENAI**. Busco oportunidades para aplicar meus conhecimentos e crescer profissionalmente na área de tecnologia.
+
+---
+
