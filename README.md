@@ -10,4 +10,4 @@ Sou estudante de Desenvolvimento de Sistemas no SENAI. Tenho interesse nas área
 - 🛠️ Manutenção de Computadores  
 
 ## 📞 Contato
-- 📧 Email: danlucatec@gmail.com
+- 📧 Email: daniellucasdevv@gmail.com
