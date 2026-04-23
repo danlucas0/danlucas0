@@ -1,45 +1,51 @@
 # 👋 Olá, eu sou Daniel Lucas
 
 🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
-💻 Focado em desenvolvimento Full-Stack  
-🚀 Sempre evoluindo com projetos práticos e desafios reais  
+💻 Desenvolvedor Full-Stack em formação  
+🚀 Evoluindo todos os dias com projetos reais  
+
+---
+
+## 🚀 Sobre mim
+
+Sou um desenvolvedor em formação que aprende na prática: criando projetos, resolvendo problemas e evoluindo constantemente.
+
+Tenho focado em desenvolvimento fullstack, trabalhando com APIs, banco de dados e interfaces modernas.
 
 ---
 
 ## 🌐 Portfólio
 
-Dá uma olhada no que eu já fiz:  
 🔗 https://portfolio-dev-six-jet.vercel.app/
 
 ---
 
-## 🧠 Sobre mim
+## 🧠 Tecnologias
 
-Sou desenvolvedor em formação e curto aprender na prática — criando projetos reais, errando, corrigindo e evoluindo.
+### 💻 Front-end
+![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
+![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
 
-Gosto de resolver problemas e transformar ideias em algo funcional, principalmente trabalhando com front-end e back-end juntos.
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
 
-Tenho estudado bastante APIs, banco de dados e construção de sistemas completos.
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
 
 ---
 
-## ⚙️ Tecnologias
+## 📊 GitHub Stats
 
-### Front-end
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danlucas0&show_icons=true&theme=tokyonight)
 
-### Back-end
-- Node.js
-- NestJS
-- SQL / MySQL
-
-### Ferramentas
-- Git e GitHub
-- VS Code
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlucas0&layout=compact&theme=tokyonight)
 
 ---
 
@@ -53,7 +59,7 @@ Tenho estudado bastante APIs, banco de dados e construção de sistemas completo
 
 ## 🎯 Objetivo
 
-Quero conseguir minha primeira oportunidade como dev, aprender com gente mais experiente e continuar evoluindo na prática.
+Busco minha primeira oportunidade como desenvolvedor, com foco em aprender rápido, contribuir com projetos reais e evoluir junto com a equipe.
 
 ---
 
@@ -63,4 +69,4 @@ Quero conseguir minha primeira oportunidade como dev, aprender com gente mais ex
 
 ---
 
-⭐ Valeu por passar aqui!
+⭐ Valeu por visitar meu perfil!
