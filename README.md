@@ -1,18 +1,18 @@
 # 👋 Olá, eu sou Daniel Lucas
 
-💻 Desenvolvedor Full-Stack | 🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
-
-Apaixonado por transformar ideias em soluções práticas.  
-Focado em construir aplicações completas, do front ao back, com código limpo e boa experiência para o usuário.
+🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
+💻 Focado em desenvolvimento Full-Stack  
+🚀 Sempre evoluindo com projetos práticos e desafios reais  
 
 ---
 
 ## 🚀 Sobre mim
 
-- 🎓 **Educação:** Estudante de Desenvolvimento de Sistemas no SENAI  
-- 💡 **Foco atual:** Desenvolvimento Full-Stack com APIs e sistemas reais  
-- 🔥 **Interesses:** Resolver problemas, aprender novas tecnologias e evoluir constantemente  
-- ⚡ **Objetivo:** Conseguir minha primeira oportunidade como dev  
+Sou desenvolvedor em formação e curto aprender na prática — criando projetos reais, errando, corrigindo e evoluindo.
+
+Gosto de resolver problemas e transformar ideias em algo funcional, principalmente trabalhando com front-end e back-end juntos.
+
+Tenho estudado bastante APIs, banco de dados e construção de sistemas completos.
 
 ---
 
@@ -39,15 +39,15 @@ Focado em construir aplicações completas, do front ao back, com código limpo 
 
 ## 🚀 Projetos em destaque
 
-- 📊 **Sistema de controle de estoque (Fullstack)**  
-- 🍽️ **Sistema de pedidos para restaurante**  
-- 📋 **Tabela de funcionários consumindo API**  
+- 📊 Sistema de controle de estoque (Fullstack)  
+- 🍽️ Sistema de pedidos para restaurante  
+- 📋 Tabela de funcionários consumindo API  
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danlucas0&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=danlucas0&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlucas0&layout=compact&theme=tokyonight)
 
@@ -68,4 +68,4 @@ Focado em construir aplicações completas, do front ao back, com código limpo 
 
 ---
 
-⭐ Obrigado por visitar meu perfil!
+⭐ Valeu por passar aqui!
