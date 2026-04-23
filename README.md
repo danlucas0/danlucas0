@@ -1,66 +1,50 @@
-# 👋 Olá, eu sou Daniel Lucas
+👋 Olá, eu sou Daniel Lucas
 
-🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
-💻 Desenvolvedor em formação focado em Full-Stack
-🚀 Sempre buscando evoluir com projetos práticos e desafios reais  
+🎓 Estudante de Desenvolvimento de Sistemas no SENAI
+💻 Focado em desenvolvimento Full-Stack
+🚀 Sempre evoluindo com projetos práticos e desafios reais
 
----
+🌐 Portfólio
 
-## 🌐 Portfólio
-
-👉 Acesse meu portfólio:  
+Dá uma olhada no que eu já fiz:
 🔗 https://portfolio-dev-six-jet.vercel.app/
 
----
+🧠 Sobre mim
 
-## 🧠 Sobre mim
+Sou desenvolvedor em formação e curto aprender na prática — criando projetos reais, errando, corrigindo e evoluindo.
 
-Sou um desenvolvedor em formação com foco em construir aplicações reais, funcionais e com boa experiência para o usuário.
+Gosto de resolver problemas e transformar ideias em algo funcional, principalmente trabalhando com front-end e back-end juntos.
 
-Tenho facilidade em aprender sozinho, resolver problemas e transformar ideias em projetos práticos.
+Tenho estudado bastante APIs, banco de dados e construção de sistemas completos.
 
-Atualmente, venho desenvolvendo projetos completos utilizando tecnologias modernas, aplicando conceitos de front-end, back-end e integração com APIs.
+⚙️ Tecnologias
 
----
+Front-end
 
-## ⚙️ Tecnologias e Ferramentas
+HTML, CSS, JavaScript
+React
+Tailwind CSS
 
-### Front-end
-- HTML
-- CSS
-- JavaScript
-- React
-- Tailwind CSS
+Back-end
 
-### Back-end
-- Node.js
-- NestJS
-- SQL / MySQL
+Node.js
+NestJS
+SQL / MySQL
 
-### Ferramentas
-- Git & GitHub
-- VS Code
+Ferramentas
 
----
+Git e GitHub
+VS Code
+🚀 Projetos
+📊 Sistema de controle de estoque (Fullstack)
+🍽️ Sistema de pedidos para restaurante
+📋 Tabela de funcionários consumindo API
+🎯 Objetivo
 
-## 🚀 Projetos em destaque
+Quero conseguir minha primeira oportunidade como dev, aprender com gente mais experiente e continuar evoluindo na prática.
 
-- 📊 Sistema de controle de estoque (Fullstack)
-- 🍽️ Sistema de pedidos para restaurante
-- 📋 Tabela de funcionários com API (Teste técnico)
+📫 Contato
 
----
+📧 daniellucasdevv@gmail.com
 
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade na área de desenvolvimento, onde eu possa evoluir profissionalmente, contribuir com projetos reais e aprender com a equipe.
-
----
-
-## 📫 Contato
-
-- 📧 Email: daniellucasdevv@gmail.com
-
----
-
-⭐ Obrigado por visitar meu perfil!
+⭐ Valeu por passar aqui!
