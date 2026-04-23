@@ -1,16 +1,55 @@
 # 👋 Olá, eu sou Daniel Lucas
 
-🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
-💻 Desenvolvedor Full-Stack em formação  
-🚀 Evoluindo todos os dias com projetos reais  
+💻 Desenvolvedor Full-Stack | 🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
+
+Apaixonado por transformar ideias em soluções práticas.  
+Focado em construir aplicações completas, do front ao back, com código limpo e boa experiência para o usuário.
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou um desenvolvedor em formação que aprende na prática: criando projetos, resolvendo problemas e evoluindo constantemente.
+- 🎓 **Educação:** Estudante de Desenvolvimento de Sistemas no SENAI  
+- 💡 **Foco atual:** Desenvolvimento Full-Stack com APIs e sistemas reais  
+- 🔥 **Interesses:** Resolver problemas, aprender novas tecnologias e evoluir constantemente  
+- ⚡ **Objetivo:** Conseguir minha primeira oportunidade como dev  
 
-Tenho focado em desenvolvimento fullstack, trabalhando com APIs, banco de dados e interfaces modernas.
+---
+
+## 🧠 Tecnologias e Ferramentas
+
+### 💻 Front-end
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### ⚙️ Back-end
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠️ Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+---
+
+## 🚀 Projetos em destaque
+
+- 📊 **Sistema de controle de estoque (Fullstack)**  
+- 🍽️ **Sistema de pedidos para restaurante**  
+- 📋 **Tabela de funcionários consumindo API**  
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danlucas0&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlucas0&layout=compact&theme=tokyonight)
 
 ---
 
@@ -20,53 +59,13 @@ Tenho focado em desenvolvimento fullstack, trabalhando com APIs, banco de dados 
 
 ---
 
-## 🧠 Tecnologias
-
-### 💻 Front-end
-![HTML](https://img.shields.io/badge/HTML-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-000?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Tailwind](https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss)
-
-### ⚙️ Back-end
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![NestJS](https://img.shields.io/badge/NestJS-000?style=for-the-badge&logo=nestjs)
-![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
-
-### 🛠️ Ferramentas
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VSCode-000?style=for-the-badge&logo=visualstudiocode)
-
----
-
-## 📊 GitHub Stats
-
-![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danlucas0&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlucas0&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Projetos
-
-- 📊 Sistema de controle de estoque (Fullstack)  
-- 🍽️ Sistema de pedidos para restaurante  
-- 📋 Tabela de funcionários consumindo API  
-
----
-
-## 🎯 Objetivo
-
-Busco minha primeira oportunidade como desenvolvedor, com foco em aprender rápido, contribuir com projetos reais e evoluir junto com a equipe.
-
----
-
 ## 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](#)
 
 📧 daniellucasdevv@gmail.com  
 
 ---
 
-⭐ Valeu por visitar meu perfil!
+⭐ Obrigado por visitar meu perfil!
