@@ -4,6 +4,8 @@
 💻 Focado em desenvolvimento Full-Stack  
 🚀 Sempre evoluindo com projetos práticos e desafios reais  
 
+🔗 **Portfólio:** https://portfolio-dev-six-jet.vercel.app/
+
 ---
 
 ## 🚀 Sobre mim
@@ -50,12 +52,6 @@ Tenho estudado bastante APIs, banco de dados e construção de sistemas completo
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=danlucas0&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danlucas0&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Portfólio
-
-🔗 https://portfolio-dev-six-jet.vercel.app/
 
 ---
 
