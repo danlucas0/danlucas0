@@ -2,6 +2,7 @@
 
 🎓 Estudante de Desenvolvimento de Sistemas no SENAI  
 💻 Desenvolvedor em formação focado em Full-Stack
+
 🚀 Sempre buscando evoluir com projetos práticos e desafios reais  
 
 ---
