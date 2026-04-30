@@ -12,9 +12,7 @@
 
 Sou desenvolvedor em formação focado em criar aplicações completas (front-end + back-end), integrando APIs, banco de dados e interfaces modernas.
 
-Gosto de aprender na prática — criando projetos reais, resolvendo problemas e evoluindo constantemente.
-
-Atualmente venho desenvolvendo sistemas utilizando tecnologias como Spring Boot, Next.js e MySQL.
+Aprendo na prática — criando projetos reais, resolvendo problemas e evoluindo constantemente.
 
 ---
 
@@ -44,22 +42,24 @@ Atualmente venho desenvolvendo sistemas utilizando tecnologias como Spring Boot,
 
 ## 🚀 Projetos em destaque
 
-### 🔹 Sistema de Produtos (Fullstack)
-- Spring Boot + MySQL + Next.js
-- Cadastro e listagem de produtos
-🔗 https://projeto-frontend-estoque-api-master.vercel.app/Login
+### 🔹 Sistema de Estoque
+Sistema completo de gerenciamento de produtos, com cadastro, movimentação e controle de estoque.
+
+[![Acessar Sistema](https://img.shields.io/badge/Acessar%20Sistema-000?style=for-the-badge&logo=vercel&logoColor=white)](https://projeto-frontend-estoque-api-master.vercel.app/Login)
 
 ---
 
-### 🔹 FutPanel (Sistema de gerenciamento de futebol)
-- Sistema completo com ranking, partidas e estatísticas
-🔗 https://futpanel.vercel.app/
+### 🔹 FutPanel
+Sistema para gerenciamento de partidas de futebol com ranking, estatísticas e controle em tempo real.
+
+[![Acessar Projeto](https://img.shields.io/badge/Acessar%20Projeto-000?style=for-the-badge&logo=vercel&logoColor=white)](https://futpanel.vercel.app/)
 
 ---
 
-### 🔹 Sistema de Restaurante (API)
-- API REST com Node.js e MySQL
-🔗 https://ap-is-res-tful-with-java-script-tau.vercel.app/
+### 🔹 Sistema de Restaurante
+API REST para gerenciamento de pedidos, mesas e cardápio.
+
+[![Ver Projeto](https://img.shields.io/badge/Ver%20Projeto-000?style=for-the-badge&logo=vercel&logoColor=white)](https://ap-is-res-tful-with-java-script-tau.vercel.app/)
 
 ---
 
