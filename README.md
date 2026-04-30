@@ -10,11 +10,11 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor em formação e curto aprender na prática — criando projetos reais, errando, corrigindo e evoluindo.
+Sou desenvolvedor em formação focado em criar aplicações completas (front-end + back-end), integrando APIs, banco de dados e interfaces modernas.
 
-Gosto de resolver problemas e transformar ideias em algo funcional, principalmente trabalhando com front-end e back-end juntos.
+Gosto de aprender na prática — criando projetos reais, resolvendo problemas e evoluindo constantemente.
 
-Tenho estudado bastante APIs, banco de dados e construção de sistemas completos.
+Atualmente venho desenvolvendo sistemas utilizando tecnologias como Spring Boot, Next.js e MySQL.
 
 ---
 
@@ -25,11 +25,14 @@ Tenho estudado bastante APIs, banco de dados e construção de sistemas completo
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Back-end
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### 🛠️ Ferramentas
@@ -41,9 +44,22 @@ Tenho estudado bastante APIs, banco de dados e construção de sistemas completo
 
 ## 🚀 Projetos em destaque
 
-- 📊 Sistema de controle de estoque (Fullstack)  
-- 🍽️ Sistema de pedidos para restaurante  
-- 📋 Tabela de funcionários consumindo API  
+### 🔹 Sistema de Produtos (Fullstack)
+- Spring Boot + MySQL + Next.js
+- Cadastro e listagem de produtos
+🔗 https://projeto-frontend-estoque-api-master.vercel.app/Login
+
+---
+
+### 🔹 FutPanel (Sistema de gerenciamento de futebol)
+- Sistema completo com ranking, partidas e estatísticas
+🔗 https://futpanel.vercel.app/
+
+---
+
+### 🔹 Sistema de Restaurante (API)
+- API REST com Node.js e MySQL
+🔗 https://ap-is-res-tful-with-java-script-tau.vercel.app/
 
 ---
 
