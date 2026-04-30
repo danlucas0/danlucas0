@@ -4,7 +4,7 @@
 💻 Focado em desenvolvimento Full-Stack  
 🚀 Sempre evoluindo com projetos práticos e desafios reais  
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-FF4B2B?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-dev-six-jet.vercel.app/)
+[![Acessar Portfólio](https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-dev-six-jet.vercel.app/)
 
 ---
 
